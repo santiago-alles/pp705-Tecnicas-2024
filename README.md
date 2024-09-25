@@ -23,3 +23,6 @@ Latin American Public Opinion Project: Argentina, 2023
 
 Set de datos que compila datos de <i>Latin American Public Opinion Project</i>, de <i> Vanderbilt University</i>, sobre preferencias políticas en América Latina. El presente set de datos reune 1,540 entrevistas realizadas en Argentina entre mayo y julio de 2023.
 
+<pre><code>url <- 'https://raw.githubusercontent.com/santiago-alles/pp705-Tecnicas-2024/master/'
+file <- 'ARG_2023_LAPOP_AmericasBarometer_v1.0_w.dta'</pre></code>
+
