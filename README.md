@@ -15,5 +15,5 @@ Voto economico en America Latina, 1982-2014
 
 Set de datos que recoge un set de 93 elecciones latinoamericanas, ocurridas entre 1982 y 2014.
 
-<pre><code>url <- ''
+<pre><code>url <- 'https://raw.githubusercontent.com/santiago-alles/pp705-Tecnicas-2024/master/'
 file <- 'MEVMLB_TABLE4_Data.dta'</pre></code>
