@@ -20,6 +20,8 @@ Los datos reunen un set de 93 elecciones latinoamericanas, ocurridas entre 1982 
 <pre><code>url <- 'https://raw.githubusercontent.com/santiago-alles/pp705-Tecnicas-2024/master/'
 file <- 'MEVMLB_TABLE4_Data.dta'</pre></code>
 
+Disponible en: http://doi.org/10.7910/DVN/4XI0UG, accedido: 25-09-2024.
+
 Latin American Public Opinion Project: Argentina, 2023
 ------------------
 
@@ -28,3 +30,4 @@ Set de datos que compila datos de <i>Latin American Public Opinion Project</i>, 
 <pre><code>url <- 'https://raw.githubusercontent.com/santiago-alles/pp705-Tecnicas-2024/master/'
 file <- 'ARG_2023_LAPOP_AmericasBarometer_v1.0_w.dta'</pre></code>
 
+Disponible en: http://datasets.americasbarometer.org/database/index.php, accedido: 25-09-2024.
