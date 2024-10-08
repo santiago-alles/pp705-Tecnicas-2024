@@ -13,7 +13,7 @@ Todos los datos aquí reproducidos corresponden a bases de datos de acceso públ
 Replication Data: Valdini & Lewis-Beck (2018)
 ------------------
 
-Set de datos para replicar resultados publicados en Melody E. Valdini and Michael S. Lewis-Beck. 2018. Economic Voting in Latin America: Rules and Responsibility. <i>American Journal of Political Science</i> 62 (2): 410-423. DOI: 10.1111/ajps.12339.
+Set de datos para replicar resultados publicados en Melody E. <b>Valdini</b> and Michael S. <b>Lewis-Beck</b>. 2018. Economic Voting in Latin America: Rules and Responsibility. <i>American Journal of Political Science</i> 62 (2): 410-423. DOI: 10.1111/ajps.12339.
 
 Los datos reunen un set de 93 elecciones latinoamericanas, ocurridas entre 1982 y 2014.
 
