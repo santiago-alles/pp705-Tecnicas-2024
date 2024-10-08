@@ -10,7 +10,7 @@ El presente repositorio contiene diferentes bases de datos utilizadas para reali
 
 Todos los datos aquí reproducidos corresponden a bases de datos de acceso público, producidas por organismos públicos, organismos internacionales, artículos de investigación, textbooks, etc. Las fuentes de cada una de ellas aparece reproducido más abajo.
 
-Voto económico en América Latina, 1982-2014
+Replication Data: Valdini & Lewis-Beck (2018)
 ------------------
 
 Set de datos para replicar resultados publicados en Melody E. Valdini and Michael S. Lewis-Beck. 2018. Economic Voting in Latin America: Rules and Responsibility. <i>American Journal of Political Science</i> 62 (2): 410-423. DOI: 10.1111/ajps.12339.
